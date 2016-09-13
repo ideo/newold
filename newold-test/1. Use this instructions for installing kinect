@@ -1,0 +1,14 @@
+1. Use this instructions for installing kinect
+https://creativevreality.wordpress.com/2016/01/26/setting-up-the-kinect-on-osx-el-capitan/
+
+Needed libraries which dont come with installation:
+https://github.com/kylemcdonald/ofxCv
+
+
+I have also began testing this library for Kinect with several diferent resources: https://github.com/fabiaserra/crea
+
+External addons used in CREA:
+- ofxKinect: https://github.com/ofTheo/ofxKinect
+- ofxFlowTools: https://github.com/moostrik/ofxFlowTools
+- ofxUI: https://github.com/rezaali/ofxUI
+- ofxSecondWindow: https://github.com/genekogan/ofxSecon...
